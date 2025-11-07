@@ -4,4 +4,5 @@ Ce script a pour objectif de fournir un template basique pour créer un WinForm 
 
 En commentaire du script, des conseils pour extraire les fichiers d'extension ".ico" depuis les fichiers d'extensions ".dll" ou ".exe", ou encore une commande PowerShell pour convertir le fichier en Base64 afin de rendre le script autonome pour l'affichage de l'icône.
 
-<img width="986" height="593" alt="image" src="https://github.com/user-attachments/assets/fb3d7144-84b8-4da9-b6e5-6c16aaaf0b78" />
+<img width="984" height="637" alt="image" src="https://github.com/user-attachments/assets/ebaafdbd-4fe0-4524-a296-caf40e7d8194" />
+
